@@ -1,0 +1,26 @@
+# Name:          _version.txt
+# Purpose:       set the versioning elements to a value
+# Author:        pierre@amultis.eu
+#
+# For extension: amu_plotly_bubbleplots
+#
+# Using Semantic Versioning 2.0.0 
+# Major.Minor.[patch]
+#
+# In summary:
+# Major releases indicate a break in backward compatibility.
+# - change of folder structure
+# - change of file name of generic files
+#
+# Minor releases indicate the addition of new features or a significant change to existing features.
+# 
+# Patch releases indicate that bugs have been fixed.
+# 
+# Dev releases indicate work in progress.
+# 
+# Changes should be commented in CHANGELOG.md
+#
+majorversion=0
+minorversion=0
+patchversion=1
+devversion=1
