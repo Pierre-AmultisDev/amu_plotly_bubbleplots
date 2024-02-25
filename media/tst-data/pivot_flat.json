@@ -1,0 +1,3794 @@
+[
+    {
+        "datum_dt":1683849600000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1683849600000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending some data",
+        "Count":39
+    },
+    {
+        "datum_dt":1683849600000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending some data",
+        "Count":45
+    },
+    {
+        "datum_dt":1683849600000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1683849600000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending some data",
+        "Count":41
+    },
+    {
+        "datum_dt":1683849600000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending insufficient data",
+        "Count":1
+    },
+    {
+        "datum_dt":1683849600000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending some data",
+        "Count":41
+    },
+    {
+        "datum_dt":1683849600000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending some data",
+        "Count":39
+    },
+    {
+        "datum_dt":1683936000000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1683936000000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1683936000000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":81
+    },
+    {
+        "datum_dt":1683936000000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1683936000000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1683936000000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1683936000000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1683936000000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1684022400000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1684022400000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1684022400000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":87
+    },
+    {
+        "datum_dt":1684022400000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1684022400000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":74
+    },
+    {
+        "datum_dt":1684022400000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1684022400000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1684022400000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1684108800000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1684108800000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1684108800000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":78
+    },
+    {
+        "datum_dt":1684108800000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1684108800000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1684108800000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1684108800000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1684108800000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1684195200000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1684195200000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1684195200000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":85
+    },
+    {
+        "datum_dt":1684195200000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1684195200000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":75
+    },
+    {
+        "datum_dt":1684195200000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1684195200000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1684195200000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1684281600000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending some data",
+        "Count":29
+    },
+    {
+        "datum_dt":1684281600000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1684281600000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":87
+    },
+    {
+        "datum_dt":1684281600000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending some data",
+        "Count":30
+    },
+    {
+        "datum_dt":1684281600000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1684281600000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1684281600000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1684281600000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1684368000000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1684368000000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1684368000000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":83
+    },
+    {
+        "datum_dt":1684368000000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1684368000000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1684368000000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1684368000000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":75
+    },
+    {
+        "datum_dt":1684368000000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1684454400000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1684454400000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1684454400000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":85
+    },
+    {
+        "datum_dt":1684454400000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1684454400000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1684454400000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1684454400000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1684454400000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1684540800000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1684540800000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1684540800000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":84
+    },
+    {
+        "datum_dt":1684540800000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1684540800000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1684540800000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending data with errors",
+        "Count":26
+    },
+    {
+        "datum_dt":1684540800000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1684540800000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1684627200000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1684627200000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1684627200000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":85
+    },
+    {
+        "datum_dt":1684627200000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1684627200000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1684627200000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending data with errors",
+        "Count":122
+    },
+    {
+        "datum_dt":1684627200000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":75
+    },
+    {
+        "datum_dt":1684627200000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":53
+    },
+    {
+        "datum_dt":1684713600000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":69
+    },
+    {
+        "datum_dt":1684713600000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":64
+    },
+    {
+        "datum_dt":1684713600000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":76
+    },
+    {
+        "datum_dt":1684713600000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1684713600000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":78
+    },
+    {
+        "datum_dt":1684713600000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending data with errors",
+        "Count":84
+    },
+    {
+        "datum_dt":1684713600000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":74
+    },
+    {
+        "datum_dt":1684713600000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending some data",
+        "Count":31
+    },
+    {
+        "datum_dt":1684800000000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":64
+    },
+    {
+        "datum_dt":1684800000000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1684800000000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":83
+    },
+    {
+        "datum_dt":1684800000000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1684800000000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1684800000000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending data with errors",
+        "Count":87
+    },
+    {
+        "datum_dt":1684800000000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1684800000000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1684886400000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1684886400000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending insufficient data",
+        "Count":10
+    },
+    {
+        "datum_dt":1684886400000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":77
+    },
+    {
+        "datum_dt":1684886400000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1684886400000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1684886400000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending data with errors",
+        "Count":74
+    },
+    {
+        "datum_dt":1684886400000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1684886400000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1684972800000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1684972800000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1684972800000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":83
+    },
+    {
+        "datum_dt":1684972800000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1684972800000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1684972800000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending data with errors",
+        "Count":72
+    },
+    {
+        "datum_dt":1684972800000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":74
+    },
+    {
+        "datum_dt":1684972800000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1685059200000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1685059200000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1685059200000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":86
+    },
+    {
+        "datum_dt":1685059200000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1685059200000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1685059200000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending data with errors",
+        "Count":79
+    },
+    {
+        "datum_dt":1685059200000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1685059200000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1685145600000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1685145600000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1685145600000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":78
+    },
+    {
+        "datum_dt":1685145600000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1685145600000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1685145600000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending data with errors",
+        "Count":80
+    },
+    {
+        "datum_dt":1685145600000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":74
+    },
+    {
+        "datum_dt":1685145600000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1685232000000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1685232000000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1685232000000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":79
+    },
+    {
+        "datum_dt":1685232000000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1685232000000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":77
+    },
+    {
+        "datum_dt":1685232000000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending data with errors",
+        "Count":81
+    },
+    {
+        "datum_dt":1685232000000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":74
+    },
+    {
+        "datum_dt":1685232000000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1685318400000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1685318400000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1685318400000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":84
+    },
+    {
+        "datum_dt":1685318400000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1685318400000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":68
+    },
+    {
+        "datum_dt":1685318400000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending data with errors",
+        "Count":88
+    },
+    {
+        "datum_dt":1685318400000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1685318400000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1685404800000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1685404800000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1685404800000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":76
+    },
+    {
+        "datum_dt":1685404800000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1685404800000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1685404800000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending data with errors",
+        "Count":151
+    },
+    {
+        "datum_dt":1685404800000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1685404800000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1685491200000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1685491200000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1685491200000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":84
+    },
+    {
+        "datum_dt":1685491200000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":67
+    },
+    {
+        "datum_dt":1685491200000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1685491200000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1685491200000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1685491200000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1685577600000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":69
+    },
+    {
+        "datum_dt":1685577600000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1685577600000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":92
+    },
+    {
+        "datum_dt":1685577600000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1685577600000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1685577600000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1685577600000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":74
+    },
+    {
+        "datum_dt":1685577600000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1685664000000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1685664000000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1685664000000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":87
+    },
+    {
+        "datum_dt":1685664000000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1685664000000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":75
+    },
+    {
+        "datum_dt":1685664000000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1685664000000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1685664000000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1685750400000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1685750400000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1685750400000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":87
+    },
+    {
+        "datum_dt":1685750400000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1685750400000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1685750400000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1685750400000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1685750400000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":66
+    },
+    {
+        "datum_dt":1685836800000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending some data",
+        "Count":37
+    },
+    {
+        "datum_dt":1685836800000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1685836800000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":47
+    },
+    {
+        "datum_dt":1685836800000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending some data",
+        "Count":37
+    },
+    {
+        "datum_dt":1685836800000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending some data",
+        "Count":39
+    },
+    {
+        "datum_dt":1685836800000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1685836800000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending some data",
+        "Count":38
+    },
+    {
+        "datum_dt":1685836800000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1685923200000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending some data",
+        "Count":38
+    },
+    {
+        "datum_dt":1685923200000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1685923200000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending some data",
+        "Count":43
+    },
+    {
+        "datum_dt":1685923200000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending some data",
+        "Count":39
+    },
+    {
+        "datum_dt":1685923200000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending some data",
+        "Count":39
+    },
+    {
+        "datum_dt":1685923200000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1685923200000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending some data",
+        "Count":40
+    },
+    {
+        "datum_dt":1685923200000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686009600000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1686009600000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686009600000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":86
+    },
+    {
+        "datum_dt":1686009600000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1686009600000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":75
+    },
+    {
+        "datum_dt":1686009600000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686009600000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1686009600000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686096000000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1686096000000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686096000000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":79
+    },
+    {
+        "datum_dt":1686096000000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1686096000000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":76
+    },
+    {
+        "datum_dt":1686096000000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686096000000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":75
+    },
+    {
+        "datum_dt":1686096000000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686182400000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1686182400000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686182400000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":84
+    },
+    {
+        "datum_dt":1686182400000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1686182400000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1686182400000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686182400000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":77
+    },
+    {
+        "datum_dt":1686182400000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686268800000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1686268800000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686268800000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":87
+    },
+    {
+        "datum_dt":1686268800000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1686268800000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":74
+    },
+    {
+        "datum_dt":1686268800000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686268800000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":76
+    },
+    {
+        "datum_dt":1686268800000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686355200000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1686355200000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686355200000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":83
+    },
+    {
+        "datum_dt":1686355200000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1686355200000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1686355200000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686355200000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":76
+    },
+    {
+        "datum_dt":1686355200000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686441600000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1686441600000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686441600000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":91
+    },
+    {
+        "datum_dt":1686441600000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1686441600000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1686441600000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686441600000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":75
+    },
+    {
+        "datum_dt":1686441600000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686528000000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":67
+    },
+    {
+        "datum_dt":1686528000000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686528000000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":87
+    },
+    {
+        "datum_dt":1686528000000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1686528000000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":74
+    },
+    {
+        "datum_dt":1686528000000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686528000000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1686528000000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686614400000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1686614400000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686614400000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":88
+    },
+    {
+        "datum_dt":1686614400000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1686614400000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1686614400000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686614400000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1686614400000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686700800000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1686700800000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686700800000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":86
+    },
+    {
+        "datum_dt":1686700800000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1686700800000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":79
+    },
+    {
+        "datum_dt":1686700800000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686700800000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":74
+    },
+    {
+        "datum_dt":1686700800000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686787200000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1686787200000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686787200000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":82
+    },
+    {
+        "datum_dt":1686787200000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1686787200000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1686787200000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686787200000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":75
+    },
+    {
+        "datum_dt":1686787200000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686873600000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1686873600000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686873600000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":89
+    },
+    {
+        "datum_dt":1686873600000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1686873600000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1686873600000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending data with errors",
+        "Count":15
+    },
+    {
+        "datum_dt":1686873600000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":76
+    },
+    {
+        "datum_dt":1686873600000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686960000000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1686960000000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1686960000000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":80
+    },
+    {
+        "datum_dt":1686960000000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1686960000000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1686960000000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending data with errors",
+        "Count":155
+    },
+    {
+        "datum_dt":1686960000000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":74
+    },
+    {
+        "datum_dt":1686960000000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687046400000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1687046400000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687046400000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":87
+    },
+    {
+        "datum_dt":1687046400000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1687046400000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":76
+    },
+    {
+        "datum_dt":1687046400000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending data with errors",
+        "Count":128
+    },
+    {
+        "datum_dt":1687046400000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1687046400000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687132800000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1687132800000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687132800000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending maximum data",
+        "Count":93
+    },
+    {
+        "datum_dt":1687132800000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1687132800000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1687132800000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending data with errors",
+        "Count":126
+    },
+    {
+        "datum_dt":1687132800000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":76
+    },
+    {
+        "datum_dt":1687132800000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687219200000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1687219200000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687219200000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":84
+    },
+    {
+        "datum_dt":1687219200000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1687219200000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1687219200000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending data with errors",
+        "Count":30
+    },
+    {
+        "datum_dt":1687219200000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":76
+    },
+    {
+        "datum_dt":1687219200000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687305600000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1687305600000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687305600000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":87
+    },
+    {
+        "datum_dt":1687305600000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1687305600000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1687305600000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687305600000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1687305600000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687392000000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1687392000000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687392000000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":88
+    },
+    {
+        "datum_dt":1687392000000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1687392000000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1687392000000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687392000000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1687392000000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687478400000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1687478400000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687478400000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":90
+    },
+    {
+        "datum_dt":1687478400000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1687478400000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1687478400000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687478400000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1687478400000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687564800000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1687564800000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687564800000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":87
+    },
+    {
+        "datum_dt":1687564800000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1687564800000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1687564800000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687564800000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":75
+    },
+    {
+        "datum_dt":1687564800000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687651200000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1687651200000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687651200000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":80
+    },
+    {
+        "datum_dt":1687651200000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1687651200000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1687651200000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687651200000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1687651200000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687737600000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1687737600000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687737600000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":83
+    },
+    {
+        "datum_dt":1687737600000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1687737600000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":76
+    },
+    {
+        "datum_dt":1687737600000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687737600000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":78
+    },
+    {
+        "datum_dt":1687737600000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687824000000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1687824000000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687824000000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":79
+    },
+    {
+        "datum_dt":1687824000000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":74
+    },
+    {
+        "datum_dt":1687824000000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1687824000000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687824000000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":69
+    },
+    {
+        "datum_dt":1687824000000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687910400000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1687910400000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687910400000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":78
+    },
+    {
+        "datum_dt":1687910400000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1687910400000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1687910400000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687910400000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1687910400000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687996800000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1687996800000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687996800000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":85
+    },
+    {
+        "datum_dt":1687996800000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1687996800000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":74
+    },
+    {
+        "datum_dt":1687996800000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1687996800000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1687996800000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688083200000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":69
+    },
+    {
+        "datum_dt":1688083200000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688083200000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":80
+    },
+    {
+        "datum_dt":1688083200000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1688083200000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1688083200000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688083200000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1688083200000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688169600000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1688169600000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688169600000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":82
+    },
+    {
+        "datum_dt":1688169600000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1688169600000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":76
+    },
+    {
+        "datum_dt":1688169600000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688169600000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":76
+    },
+    {
+        "datum_dt":1688169600000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688256000000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1688256000000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688256000000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":79
+    },
+    {
+        "datum_dt":1688256000000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1688256000000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1688256000000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688256000000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1688256000000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688342400000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1688342400000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688342400000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":76
+    },
+    {
+        "datum_dt":1688342400000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1688342400000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1688342400000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688342400000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":74
+    },
+    {
+        "datum_dt":1688342400000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688428800000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1688428800000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688428800000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":89
+    },
+    {
+        "datum_dt":1688428800000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1688428800000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1688428800000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688428800000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":74
+    },
+    {
+        "datum_dt":1688428800000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688515200000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1688515200000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688515200000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":77
+    },
+    {
+        "datum_dt":1688515200000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1688515200000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1688515200000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688515200000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":75
+    },
+    {
+        "datum_dt":1688515200000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688601600000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1688601600000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688601600000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":80
+    },
+    {
+        "datum_dt":1688601600000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1688601600000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1688601600000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688601600000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1688601600000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688688000000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1688688000000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688688000000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":82
+    },
+    {
+        "datum_dt":1688688000000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1688688000000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1688688000000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688688000000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":78
+    },
+    {
+        "datum_dt":1688688000000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688774400000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1688774400000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688774400000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":84
+    },
+    {
+        "datum_dt":1688774400000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1688774400000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":76
+    },
+    {
+        "datum_dt":1688774400000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688774400000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":75
+    },
+    {
+        "datum_dt":1688774400000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688860800000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1688860800000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688860800000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":91
+    },
+    {
+        "datum_dt":1688860800000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1688860800000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":79
+    },
+    {
+        "datum_dt":1688860800000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688860800000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":76
+    },
+    {
+        "datum_dt":1688860800000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688947200000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1688947200000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688947200000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":80
+    },
+    {
+        "datum_dt":1688947200000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1688947200000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1688947200000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1688947200000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1688947200000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689033600000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1689033600000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689033600000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":90
+    },
+    {
+        "datum_dt":1689033600000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1689033600000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1689033600000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689033600000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":77
+    },
+    {
+        "datum_dt":1689033600000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689120000000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1689120000000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689120000000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":87
+    },
+    {
+        "datum_dt":1689120000000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1689120000000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1689120000000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689120000000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":77
+    },
+    {
+        "datum_dt":1689120000000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689206400000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1689206400000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689206400000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":79
+    },
+    {
+        "datum_dt":1689206400000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1689206400000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1689206400000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689206400000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":75
+    },
+    {
+        "datum_dt":1689206400000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689292800000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1689292800000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689292800000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":91
+    },
+    {
+        "datum_dt":1689292800000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1689292800000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1689292800000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689292800000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":75
+    },
+    {
+        "datum_dt":1689292800000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689379200000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1689379200000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689379200000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":87
+    },
+    {
+        "datum_dt":1689379200000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1689379200000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":74
+    },
+    {
+        "datum_dt":1689379200000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689379200000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1689379200000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689465600000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1689465600000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689465600000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":91
+    },
+    {
+        "datum_dt":1689465600000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1689465600000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1689465600000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689465600000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":76
+    },
+    {
+        "datum_dt":1689465600000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689552000000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1689552000000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689552000000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":85
+    },
+    {
+        "datum_dt":1689552000000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1689552000000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":76
+    },
+    {
+        "datum_dt":1689552000000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689552000000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":74
+    },
+    {
+        "datum_dt":1689552000000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689638400000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1689638400000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689638400000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":83
+    },
+    {
+        "datum_dt":1689638400000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1689638400000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":77
+    },
+    {
+        "datum_dt":1689638400000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689638400000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1689638400000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689724800000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":69
+    },
+    {
+        "datum_dt":1689724800000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689724800000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":82
+    },
+    {
+        "datum_dt":1689724800000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1689724800000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":75
+    },
+    {
+        "datum_dt":1689724800000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689724800000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1689724800000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689811200000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1689811200000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689811200000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":90
+    },
+    {
+        "datum_dt":1689811200000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1689811200000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":74
+    },
+    {
+        "datum_dt":1689811200000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689811200000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":74
+    },
+    {
+        "datum_dt":1689811200000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689897600000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1689897600000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689897600000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":86
+    },
+    {
+        "datum_dt":1689897600000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1689897600000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1689897600000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689897600000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":76
+    },
+    {
+        "datum_dt":1689897600000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689984000000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1689984000000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689984000000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":87
+    },
+    {
+        "datum_dt":1689984000000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1689984000000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1689984000000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1689984000000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1689984000000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1690070400000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1690070400000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1690070400000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":74
+    },
+    {
+        "datum_dt":1690070400000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1690070400000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1690070400000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1690070400000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":75
+    },
+    {
+        "datum_dt":1690070400000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1690156800000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1690156800000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1690156800000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":85
+    },
+    {
+        "datum_dt":1690156800000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1690156800000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":73
+    },
+    {
+        "datum_dt":1690156800000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1690156800000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":75
+    },
+    {
+        "datum_dt":1690156800000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1690243200000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1690243200000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1690243200000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":83
+    },
+    {
+        "datum_dt":1690243200000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1690243200000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":76
+    },
+    {
+        "datum_dt":1690243200000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1690243200000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1690243200000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1690329600000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1690329600000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1690329600000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":81
+    },
+    {
+        "datum_dt":1690329600000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1690329600000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":70
+    },
+    {
+        "datum_dt":1690329600000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1690329600000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":76
+    },
+    {
+        "datum_dt":1690329600000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1690416000000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1690416000000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1690416000000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":83
+    },
+    {
+        "datum_dt":1690416000000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1690416000000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":72
+    },
+    {
+        "datum_dt":1690416000000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1690416000000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":74
+    },
+    {
+        "datum_dt":1690416000000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1690502400000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1690502400000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1690502400000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":79
+    },
+    {
+        "datum_dt":1690502400000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1690502400000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":76
+    },
+    {
+        "datum_dt":1690502400000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1690502400000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending data",
+        "Count":71
+    },
+    {
+        "datum_dt":1690502400000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1690588800000,
+        "uniek_id":"968433032402170|Straatnaam 8 POSTCODE Plaats",
+        "Status":"Sending some data",
+        "Count":34
+    },
+    {
+        "datum_dt":1690588800000,
+        "uniek_id":"968433032564722|Straatnaam 4 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1690588800000,
+        "uniek_id":"968433032573210|Straatnaam 3 POSTCODE Plaats",
+        "Status":"Sending some data",
+        "Count":38
+    },
+    {
+        "datum_dt":1690588800000,
+        "uniek_id":"968433032833069|Straatnaam 2 POSTCODE Plaats",
+        "Status":"Sending some data",
+        "Count":35
+    },
+    {
+        "datum_dt":1690588800000,
+        "uniek_id":"968433032947257|Straatnaam 1 POSTCODE Plaats",
+        "Status":"Sending some data",
+        "Count":35
+    },
+    {
+        "datum_dt":1690588800000,
+        "uniek_id":"968433035034327|Straatnaam 5 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    },
+    {
+        "datum_dt":1690588800000,
+        "uniek_id":"968433036363584|Straatnaam 6 POSTCODE Plaats",
+        "Status":"Sending some data",
+        "Count":37
+    },
+    {
+        "datum_dt":1690588800000,
+        "uniek_id":"968433036364624|Straatnaam 7 POSTCODE Plaats",
+        "Status":"Sending no data",
+        "Count":0
+    }
+]

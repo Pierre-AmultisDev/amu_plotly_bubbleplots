@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelogs>
+	<!-- 
+	  - See also https://docs.joomla.org/Adding_changelog_to_your_manifest_file
+      - Important: Every change requires a <changelog> element if it is to be shown in the backend 
+  -->
+   <changelog>
+        <version>0.0.0.23</version>
+        <element>mod_amu_plotly_bubbleplots</element>
+        <type>module</type>
+        <change>
+		    <addition>
+				<item>Initial version</item>
+			</addition>
+        </change>
+    </changelog>
+ 
+</changelogs>

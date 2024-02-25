@@ -1,0 +1,14 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
+
+# 2023-07-25 Joomla Settings for files 
+# https://developer.joomla.org/coding-standards/basic-guidelines.html
+# - Lines must end only with a line feed (LF).
+*.xml text eol=LF
+*.php text eol=LF
+*.js text eol=LF
+*.json text eol=LF
+*.css text eol=LF
+*.htm text eol=LF
+*.html text eol=LF
+*.md text eol=LF

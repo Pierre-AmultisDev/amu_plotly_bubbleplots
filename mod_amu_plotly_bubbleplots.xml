@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- basic information of the extension -->
+<!-- more info: https://docs.joomla.org/Manifest_files/nl -->
+<extension
+    version="4.0" 
+    type="module"
+	client="site"
+	method="upgrade">
+
+    <name>mod_amu_plotly_bubbleplots</name>
+
+    <!-- The following metadata elements are optional and free of formatting constraints -->
+    <author>Pierre Veelen</author>
+    <authorEmail>pierre@amultis.eu</authorEmail>
+    <authorUrl>https://amulits.dev/joomla4/plotly_bubbleplots</authorUrl>
+    <creationDate>10 September 2023</creationDate>
+    <copyright>Copyright (C) 2023 by Pierre Veelen. All rights reserved.</copyright>
+    <license>GNU General Public License version 2</license>
+
+    <!--  The version string for this extension; is recorded in the #__extensions table -->
+    <version>0.0.0.23</version>
+
+    <!-- The description is optional and defaults to the name; translatable field -->
+    <description>MOD_AMUPLOTLYBUBBLEPLOTS_XML_DESCRIPTION</description>
+
+    <!-- An optional script file (PHP code that is run before, during and/or after installation, uninstallation and upgrading -->
+    <scriptfile>script.php</scriptfile>
+	
+	<!-- namespace to be used for autoloading the plugin. -->
+    <namespace path="src">aMultisNamespace\Module\plotly_bubbleplots</namespace>
+		
+	<!-- the internal name of the component. If omitted, <name> will be cleaned and used -->
+	<!-- Should be the name of of the module otherwise we get an "xml not found error" in backend after a successful install -->  
+	<element>mod_amu_plotly_bubbleplots</element>
+	
+    <!-- files and folders used by this module -->
+    <files>
+        <filename module="mod_amu_plotly_lineplots">mod_amu_plotly_bubbleplots.php</filename>
+        <filename>mod_amu_plotly_bubbleplots.xml</filename>
+        <filename>index.html</filename>
+        <folder>tmpl</folder>
+        <folder>src</folder>
+        <folder>language</folder>
+    </files>
+	
+	<!-- files and folders used by this module -->
+	<!-- files and folders in folder media are put in <SITEROOT>\media\mod_amultislineplots\ -->
+	<media folder="media" destination="mod_amu_plotly_bubbleplots">
+		<folder>js</folder>
+		<folder>css</folder>
+		<folder>tst-data</folder>
+	</media>
+
+	<languages folder="language">
+		<language tag="nl-NL">nl-NL/nl-NL.mod_amu_plotly_bubbleplots.ini</language>
+		<language tag="nl-NL">nl-NL/nl-NL.mod_amu_plotly_bubbleplots.sys.ini</language>
+		<language tag="en-GB">en-GB/en-GB.mod_amu_plotly_bubbleplots.ini</language>
+		<language tag="en-GB">en-GB/en-GB.mod_amu_plotly_bubbleplots.sys.ini</language>
+	</languages>
+
+    <!-- additional fields to be configured in joomla back-end for this module --> 
+	<!-- filter="raw" allows for html tags see https://docs.joomla.org/Textarea_form_field_type -->
+    <config>
+		<fields name="params" >
+			<fieldset name="advanced" >
+				<field name="moduleclass_sfx"
+					type="text"
+					label="Module Class Suffix"
+					description="MOD_AMUPLOTLYBUBBLEPLOTS_PARAMS_MSG_CLASS_SUFFIX"
+				/>
+				<field name="pretext" 
+					type="textarea"
+					label="Pre Text"
+					description="MOD_AMUPLOTLYBUBBLEPLOTS_PARAMS_MSG_PRETEXT"
+					cols="30"
+					rows="5"
+				/>
+				<field name="posttext"
+					type="textarea"
+					label="Post Text"
+					description="MOD_AMUPLOTLYBUBBLEPLOTS_PARAMS_MSG_POSTTEXT"
+					cols="30"
+					rows="5"
+				/>
+				<field name="visualisation_data_url"
+					type="text"
+					label="Visualisation Data url"
+					description="MOD_AMUPLOTLYBUBBLEPLOTS_PARAMS_MSG_VISUALISATION_DATA_URL"
+				/>
+				<field name="api_key"
+					type="text"
+					label="API key"
+					description="MOD_AMUPLOTLYBUBBLEPLOTS_PARAMS_MSG_API_KEY"
+				/>
+				<field name="graph_title_text"
+					type="text"
+					label="Title of the graph"
+					description="MOD_AMUPLOTLYBUBBLEPLOTS_PARAMS_MSG_GRAPH_TITLE_TEXT"
+					filter="raw"
+				/>
+				<field name="graph_subtitle_text"
+					type="text"
+					label="Subtitle of the graph"
+					description="MOD_AMUPLOTLYBUBBLEPLOTS_PARAMS_MSG_GRAPH_SUBTITLE_TEXT"
+					filter="raw"
+				/>
+			</fieldset>
+		</fields>
+    </config>
+
+    <!-- A link to the xml file holding the changelog. -->
+	<changelogurl>https://update.amultis.dev/joomla/modules/amu_plotly_bubbleplots/changelog.xml</changelogurl>
+
+    <!-- configuration for update server(s)-->
+    <updateservers>
+        <server
+            type="extension"
+            priority="1"
+            name="Updates for aMultis Plotly BubblePlots module on update.amultis.dev">
+            https://update.amultis.dev/joomla/modules/amu_plotly_bubbleplots/mod_amu_plotly_bubbleplots.xml
+        </server>
+    </updateservers>
+
+</extension>
