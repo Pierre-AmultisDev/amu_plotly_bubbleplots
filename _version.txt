@@ -23,4 +23,4 @@
 majorversion=0
 minorversion=0
 patchversion=0
-devversion=23
+devversion=26

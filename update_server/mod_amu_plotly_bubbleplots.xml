@@ -21,18 +21,18 @@
 		<targetplatform name="joomla" version="4" />
 		
 		<!-- The version of the release -->
-		<version>0.0.0.23</version>
+		<version>0.0.0.26</version>
 		
 		<!-- A link to the xml file holding the changelog. -->
 		<changelogurl>https://update.amultis.dev/joomla/modules/amu_plotly_bubbleplots/changelog.xml</changelogurl>
 		
 		<downloads>
-			<downloadurl type="upgrade" format="zip">https://download.amultis.dev/joomla/modules/amu_plotly_bubbleplots/mod_amu_plotly_bubbleplots_v0.0.0.23.zip</downloadurl>
+			<downloadurl type="upgrade" format="zip">https://download.amultis.dev/joomla/modules/amu_plotly_bubbleplots/mod_amu_plotly_bubbleplots_v0.0.0.26.zip</downloadurl>
 		</downloads>
 		
         <!-- === OPTIONAL TAG ELEMENTS == -->
         <!-- ============================ -->
-		<!-- A short description of the extension (optional) A short description of the extension (optional)  -->
+		<!-- A short description of the extension (optional) -->
 		<description>Module to show Plotly BubblePlots in module on Joomla! 4 website</description>
 		
 		<!-- A URL to point users to containing information about the update -->

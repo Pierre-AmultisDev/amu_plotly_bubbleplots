@@ -1,18 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelogs>
-	<!-- 
-	  - See also https://docs.joomla.org/Adding_changelog_to_your_manifest_file
-      - Important: Every change requires a <changelog> element if it is to be shown in the backend 
-  -->
+   <!-- 
+   - See also https://docs.joomla.org/Adding_changelog_to_your_manifest_file
+   - Important: Every change requires a <changelog> element if it is to be shown in the backend 
+   - Version number should follow semantic versioning guidelines https://semver.org/
+   - structure:
+      <changelog>
+         <version>0.0.0.23</version>
+         <element>mod_amu_plotly_bubbleplots</element>
+         <type>module</type>
+         <security>
+            <item></item>
+            <item></item>
+         </security>
+         <fix>
+            <item></item>
+            <item></item>
+         </fix>
+         <language>
+            <item></item>
+            <item></item>
+		 </language>
+         <addition>
+            <item></item>
+            <item></item>
+         </addition>
+         <change>
+            <item></item>
+            <item></item>
+         </change>
+         <remove>
+            <item></item>
+            <item></item>
+         </remove>
+         <note>
+            <item></item>
+            <item></item>
+         </note>
+      </changelog>		
+   -->
+
    <changelog>
-        <version>0.0.0.23</version>
-        <element>mod_amu_plotly_bubbleplots</element>
-        <type>module</type>
-        <change>
-		    <addition>
-				<item>Initial version</item>
-			</addition>
-        </change>
+      <version>0.0.0.23</version>
+      <element>mod_amu_plotly_bubbleplots</element>
+      <type>module</type>
+      <change>
+         <addition>
+            <item>Initial version</item>
+         </addition>
+      </change>
+   </changelog>
+	
+   <changelog>
+      <version>0.0.0.24</version>
+      <element>mod_amu_plotly_bubbleplots</element>
+      <type>module</type>
+      <language>
+         <item>Preflight and post flight text added</item>
+      </language>
+	  <remove>
+         <item>.gitignore file removed</item>
+      </remove>
+    </changelog> 
+
+    <changelog>
+      <version>0.0.0.25</version>
+      <element>mod_amu_plotly_bubbleplots</element>
+      <type>module</type>
+      <language>
+         <item>Removed hard returns in language texts</item>
+         <item>and some typo's fixed</item>
+      </language>
+      <note>
+         <item>Versioning should follow semantic versioning guidelines</item>
+      </note>
     </changelog>
- 
+
+    <changelog>
+      <version>0.0.0.26</version>
+      <element>mod_amu_plotly_bubbleplots</element>
+      <type>module</type>
+      <language>
+         <item>Added link to Plotly site</item>
+      </language>
+    </changelog>	
+
 </changelogs>

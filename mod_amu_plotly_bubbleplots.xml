@@ -8,18 +8,19 @@
 	client="site"
 	method="upgrade">
 
-    <name>mod_amu_plotly_bubbleplots</name>
-
+    <!-- raw component name, translatable field, schould not start with extensiontype mod_ etc.-->
+	<name>aMultis Plotly BubblePlots</name>
+		
     <!-- The following metadata elements are optional and free of formatting constraints -->
     <author>Pierre Veelen</author>
     <authorEmail>pierre@amultis.eu</authorEmail>
-    <authorUrl>https://amulits.dev/joomla4/plotly_bubbleplots</authorUrl>
-    <creationDate>10 September 2023</creationDate>
-    <copyright>Copyright (C) 2023 by Pierre Veelen. All rights reserved.</copyright>
+    <authorUrl>https://amultis.dev/joomla4/plotly_bubbleplots</authorUrl>
+    <creationDate>29 February 2024</creationDate>
+    <copyright>Copyright (C) 2024 by Pierre Veelen. All rights reserved.</copyright>
     <license>GNU General Public License version 2</license>
 
     <!--  The version string for this extension; is recorded in the #__extensions table -->
-    <version>0.0.0.23</version>
+    <version>0.0.0.26</version>
 
     <!-- The description is optional and defaults to the name; translatable field -->
     <description>MOD_AMUPLOTLYBUBBLEPLOTS_XML_DESCRIPTION</description>
@@ -36,7 +37,7 @@
 	
     <!-- files and folders used by this module -->
     <files>
-        <filename module="mod_amu_plotly_lineplots">mod_amu_plotly_bubbleplots.php</filename>
+        <filename module="mod_amu_plotly_bubbleplots">mod_amu_plotly_bubbleplots.php</filename>
         <filename>mod_amu_plotly_bubbleplots.xml</filename>
         <filename>index.html</filename>
         <folder>tmpl</folder>
@@ -45,7 +46,7 @@
     </files>
 	
 	<!-- files and folders used by this module -->
-	<!-- files and folders in folder media are put in <SITEROOT>\media\mod_amultislineplots\ -->
+	<!-- files and folders in folder media are put in <SITEROOT>\media\mod_amultisbubbleplots\ -->
 	<media folder="media" destination="mod_amu_plotly_bubbleplots">
 		<folder>js</folder>
 		<folder>css</folder>

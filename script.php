@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @package     mod_amu_plotly_lineplots
+ * @package     mod_amu_plotly_bubbleplots
  * @author      Pierre Veelen, amultis.dev
  * @copyright   Copyright (C) 2020 Pierre Veelen. All rights reserved.
  * @license     GNU General Public License version 2 or later.
@@ -18,9 +18,9 @@ use Joomla\CMS\Language\Text;
 use Joomla\CMS\Log\Log;
 
 /**
- * Script file of amu_plotly_lineplots module
+ * Script file of amu_plotly_bubbleplots module
  */
-class mod_amu_plotly_lineplotsInstallerScript
+class mod_amu_plotly_bubbleplotsInstallerScript
 {
     /**
      * Extension script constructor.
@@ -42,7 +42,7 @@ class mod_amu_plotly_lineplotsInstallerScript
      */
     function install($parent)
     {
-        echo Text::_('MOD_AMUPLOTLYLINEPLOTS_INSTALLERSCRIPT_INSTALL');
+        echo Text::_('MOD_AMUPLOTLYBUBBLEPLOTS_INSTALLERSCRIPT_INSTALL');
 
         return true;
     }
@@ -56,7 +56,7 @@ class mod_amu_plotly_lineplotsInstallerScript
      */
     function uninstall($parent)
     {
-        echo Text::_('MOD_AMUPLOTLYLINEPLOTS_INSTALLERSCRIPT_UNINSTALL');
+        echo Text::_('MOD_AMUPLOTLYBUBBLEPLOTS_INSTALLERSCRIPT_UNINSTALL');
 
         return true;
     }
@@ -70,7 +70,7 @@ class mod_amu_plotly_lineplotsInstallerScript
      */
     function update($parent)
     {
-        echo Text::_('MOD_AMUPLOTLYLINEPLOTS_INSTALLERSCRIPT_UPDATE');
+        echo Text::_('MOD_AMUPLOTLYBUBBLEPLOTS_INSTALLERSCRIPT_UPDATE');
 
         return true;
     }
@@ -99,7 +99,7 @@ class mod_amu_plotly_lineplotsInstallerScript
             return false;
         }
 
-        echo Text::_('MOD_AMUPLOTLYLINEPLOTS_INSTALLERSCRIPT_PREFLIGHT');
+        echo Text::_('MOD_AMUPLOTLYBUBBLEPLOTS_INSTALLERSCRIPT_PREFLIGHT');
 
         return true;
     }
@@ -114,7 +114,7 @@ class mod_amu_plotly_lineplotsInstallerScript
      */
     function postflight($type, $parent)
     {
-        echo Text::_('MOD_AMUPLOTLYLINEPLOTS_INSTALLERSCRIPT_POSTFLIGHT');
+        echo Text::_('MOD_AMUPLOTLYBUBBLEPLOTS_INSTALLERSCRIPT_POSTFLIGHT');
 
         return true;
     }
